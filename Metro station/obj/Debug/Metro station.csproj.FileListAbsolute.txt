@@ -1,0 +1,44 @@
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\Metro station.exe.config
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\Metro station.exe
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\Metro station.pdb
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro station.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Form2.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Form3.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Form4.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Form5.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Homepage.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro station.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro station.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro station.exe
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro station.pdb
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Form6.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.Form7.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Buffers.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Memory.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Buffers.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Memory.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro_station.registration.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Metro station\Metro station\obj\Debug\Metro station.csproj.CopyComplete
